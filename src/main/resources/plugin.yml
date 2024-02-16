@@ -1,0 +1,7 @@
+name: gravity-plugin
+version: '${project.version}'
+main: com.luan.gravity.GravityPlugin
+api-version: '1.20'
+commands:
+  gravity:
+    permission: gravity.change

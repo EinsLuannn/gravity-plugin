@@ -1,0 +1,12 @@
+com\luan\gravity\command\GravityCommand.class
+com\luan\gravity\module\GravityGuiceModule.class
+com\luan\gravity\controller\GravityLivingEntityService$1.class
+com\luan\gravity\controller\GravityEntityService.class
+com\luan\gravity\mode\GravityType.class
+com\luan\gravity\controller\GravityController.class
+com\luan\gravity\api\GravityAPI.class
+com\luan\gravity\exceptions\GravityTypeNotAllowedException.class
+com\luan\gravity\mode\GravityMode.class
+com\luan\gravity\controller\GravityEntityService$1.class
+com\luan\gravity\GravityPlugin.class
+com\luan\gravity\controller\GravityLivingEntityService.class
